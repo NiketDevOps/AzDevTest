@@ -1,1 +1,2 @@
 gittext added
+line 2 added
